@@ -1,1 +1,1 @@
-# HighRisol.github.io
+# highrisol.github.io
